@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Fri, 11 Jun 2021 14:34:26 +0200
+Source: clementine-1.4.0rc1
+Binary: clementine-1.4.0rc1 clementine-1.4.0rc1-dbgsym
+Architecture: source i386
+Version: 631-g4e4fccc07-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Debian <291060@office.umcs.pl>
+Changed-By: Debian <291060@office.umcs.pl>
+Description:
+ clementine-1.4.0rc1 - Clementine music player
+Changes:
+ clementine-1.4.0rc1 (631-g4e4fccc07-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ a2bca31c4b27a7597927d2e8d5a82154a2936cf9 1665 clementine-1.4.0rc1_631-g4e4fccc07-1.dsc
+ 2ee765bc1cf9e47f382faca3b7101c5d4311f5d3 9024889 clementine-1.4.0rc1_631-g4e4fccc07.orig.tar.gz
+ 2796522b194d8c6d2e33b7447bd6d46605e469e0 7948 clementine-1.4.0rc1_631-g4e4fccc07-1.debian.tar.xz
+ 1b4d900eb3c7744ca2e05c01f667709285d790c4 132974728 clementine-1.4.0rc1-dbgsym_631-g4e4fccc07-1_i386.deb
+ e3577591e931d1ecfef01c5820c2611579a59447 16637 clementine-1.4.0rc1_631-g4e4fccc07-1_i386.buildinfo
+ a6146dbacbe93de5789cdc4df365e4a38bddf5c2 6669904 clementine-1.4.0rc1_631-g4e4fccc07-1_i386.deb
+Checksums-Sha256:
+ fcaa11b6d35bb8bd2181ad63446e3d3922633e640abde89b97c054150463f8d5 1665 clementine-1.4.0rc1_631-g4e4fccc07-1.dsc
+ e87226511d6db06e7f4d2e5158332f7b26daaa14c387314f16ed832b8f2839d3 9024889 clementine-1.4.0rc1_631-g4e4fccc07.orig.tar.gz
+ 5e914828c6e690d64a7c9e2b2205e7c86fa90929e85bec703269ef248b82a843 7948 clementine-1.4.0rc1_631-g4e4fccc07-1.debian.tar.xz
+ 8d036870c3c2cf73e87cf6404de0c596bd5cccb7fcd6c03fc76a5b2c65292a36 132974728 clementine-1.4.0rc1-dbgsym_631-g4e4fccc07-1_i386.deb
+ ae7be6bcb003f8cbf112e80d9098dc0c42a950d1f45b38145a5159bf210394da 16637 clementine-1.4.0rc1_631-g4e4fccc07-1_i386.buildinfo
+ 4c2dbb6948499776617dbd737466c90b39553e7ef354a55b1b13c4067a898094 6669904 clementine-1.4.0rc1_631-g4e4fccc07-1_i386.deb
+Files:
+ e41e2a3d41fdb6039f156f7ab5dc0bee 1665 unknown optional clementine-1.4.0rc1_631-g4e4fccc07-1.dsc
+ 88d7b476ee1e28d579438b2e37d88cb3 9024889 unknown optional clementine-1.4.0rc1_631-g4e4fccc07.orig.tar.gz
+ b7eaa6089657c7904c613bc97c92fe12 7948 unknown optional clementine-1.4.0rc1_631-g4e4fccc07-1.debian.tar.xz
+ 537177630a5c0450c31de26b464ff8a6 132974728 debug optional clementine-1.4.0rc1-dbgsym_631-g4e4fccc07-1_i386.deb
+ e4b2f40e8944fbfb6d3b3077468f03a2 16637 unknown optional clementine-1.4.0rc1_631-g4e4fccc07-1_i386.buildinfo
+ 60b0286b9d726254f5a5ad43b0f2c3a3 6669904 unknown optional clementine-1.4.0rc1_631-g4e4fccc07-1_i386.deb
